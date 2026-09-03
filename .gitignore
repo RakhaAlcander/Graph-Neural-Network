@@ -1,0 +1,40 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter temporary files and checkpoints
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Downloaded datasets and local experiment outputs
+Cora/
+data/
+outputs/
+checkpoints/
+*.pt
+*.pth
+
+# Test, coverage, and build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
