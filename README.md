@@ -106,7 +106,7 @@ Hasil akurasi dapat berbeda bergantung pada versi library, perangkat keras, dan 
 		<tr>
 			<td align="center">
 				<a href="https://github.com/RakhaAlcander">
-					<img src="https://avatars.githubusercontent.com/u/82692777?v=4" width="100px;" alt="RizkyYanuarK"/>
+					<img src="https://avatars.githubusercontent.com/u/82692777?v=4" width="100px;" alt="Michael Luwi Pallea"/>
 				</a>
 				<br />
 				<sub>Ahmad Hilmy Rakha Alcander</sub>
@@ -120,7 +120,7 @@ Hasil akurasi dapat berbeda bergantung pada versi library, perangkat keras, dan 
 			</td>
 			<td align="center">
 				<a href="https://[github.com/prenji3](https://github.com/daffzlys)">
-					<img src="https://avatars.githubusercontent.com/u/171494212?v=4" width="100px;" alt="Rivadian Ardiansyah"/>
+					<img src="https://avatars.githubusercontent.com/u/171494212?v=4" width="100px;" alt="Daffa Fazly R"/>
 				</a>
 				<br />
 				<sub>Daffa Fazly Rashidan</sub>
