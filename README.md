@@ -96,3 +96,35 @@ import pandas as pd
 ```
 
 Hasil akurasi dapat berbeda bergantung pada versi library, perangkat keras, dan proses training.
+
+# Kelompok 2
+
+**Anggota**
+
+<div align="center">
+	<table style="margin: auto;">
+		<tr>
+			<td align="center">
+				<a href="https://github.com/rizkyyanuark">
+					<img src="https://avatars.githubusercontent.com/u/82692777?v=4" width="100px;" alt="RizkyYanuarK"/>
+				</a>
+				<br />
+				<sub>Rizky Yanuar K</sub>
+			</td>
+			<td align="center">
+				<a href="https://github.com/RakhaAlcander">
+					<img src="https://avatars.githubusercontent.com/u/172197688?v=4" width="100px;" alt="Ahmad Hilmy Rakha Alcander"/>
+				</a>
+				<br />
+				<sub>Ahmad Hilmy Rakha Alcander</sub>
+			</td>
+			<td align="center">
+				<a href="https://github.com/prenji3">
+					<img src="https://avatars.githubusercontent.com/u/171494212?v=4" width="100px;" alt="Rivadian Ardiansyah"/>
+				</a>
+				<br />
+				<sub>Riva Dian Ardiansyah</sub>
+			</td>
+		</tr>
+	</table>
+</div>
